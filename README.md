@@ -69,7 +69,7 @@ A modular **Autonomous Air Purifier Robot** integrated with an **ML-powered inte
 ---
 
 ## DASHBOARD
-<img width="1600" height="921" alt="image" src="https://github.com/user-attachments/assets/2f9c6bb2-ec79-4ba3-816a-24020429e3b8" />
+<img width="1865" height="927" alt="Screenshot 2025-01-31 074218" src="https://github.com/user-attachments/assets/e6eac099-09f8-4697-9e55-0d1aa126b256" />
 <img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/1dce0c8c-afcd-4505-85e0-fa446a2979e0" />
 
 
