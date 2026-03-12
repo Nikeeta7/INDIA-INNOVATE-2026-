@@ -7,7 +7,8 @@ This repository contains the architecture, ML models, and hardware integration f
 
 ---
 
-## https://drive.google.com/file/d/1lc1N34Gi06izffGy-99bAJ18fbjghRI8/view?usp=sharing
+## Video Link:- 
+*https://drive.google.com/file/d/1lc1N34Gi06izffGy-99bAJ18fbjghRI8/view?usp=sharing
 
 ## 🚀 The Problem & Solution
 
