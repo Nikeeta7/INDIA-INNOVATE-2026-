@@ -79,3 +79,6 @@ A modular **Autonomous Air Purifier Robot** integrated with an **ML-powered inte
 *   [Delhi Pollution Control Committee (DPCC)](https://delhigovt.nic.in)
 *   [Robot Operating System (ROS)](https://ros.org)
 *   [Raspberry Pi Documentation](https://raspberrypi.org)
+
+* <img width="1904" height="1079" alt="image" src="https://github.com/user-attachments/assets/93ad79a2-5ec2-44a6-881e-b29950a6b1a7" />
+
