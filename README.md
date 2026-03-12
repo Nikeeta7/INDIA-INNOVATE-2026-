@@ -10,6 +10,7 @@ This repository contains the architecture, ML models, and hardware integration f
 ## Video Link:- 
 *https://drive.google.com/file/d/1lc1N34Gi06izffGy-99bAJ18fbjghRI8/view?usp=sharing
 
+
 ## 🚀 The Problem & Solution
 
 ### The Gap
@@ -66,6 +67,11 @@ A modular **Autonomous Air Purifier Robot** integrated with an **ML-powered inte
 *[Source: Project USP Section 0.1.7]*
 
 ---
+
+## DASHBOARD
+<img width="1600" height="921" alt="image" src="https://github.com/user-attachments/assets/2f9c6bb2-ec79-4ba3-816a-24020429e3b8" />
+<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/1dce0c8c-afcd-4505-85e0-fa446a2979e0" />
+
 
 ## 👥 The Team: Earth Doom Bots (GGSIPU)
 *   **Sahil Khan** (ME)
